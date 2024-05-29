@@ -51,7 +51,7 @@
 
 	/* MESSAGE SETTINGS */
 	--message-radius: 18px;
-	--message-padding-top: 8px;
+	/* --message-padding-top: 0px; */
 	--message-padding-side: 12px;
 
 	/* MESSAGE MEDIA SETTINGS */
